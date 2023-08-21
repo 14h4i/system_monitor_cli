@@ -1,10 +1,10 @@
-# System Monitor CLI
+# system_monitor_cli
 
 A command-line interface (CLI) for controlling the System Monitor server, which is part of the System Monitor package.
 
 ## Description
 
-The **System Monitor CLI** package provides a command-line interface to start and stop the System Monitor server, which is a component of the [System Monitor package](https://pub.dev/packages/system_monitor). The server allows you to monitor system metrics using WebSocket communication.
+The **system_monitor_cli** package provides a command-line interface to start and stop the System Monitor server, which is a component of the [system_monitor](https://pub.dev/packages/system_monitor) package. The server allows you to monitor system metrics using WebSocket communication.
 
 ## Installation
 
