@@ -18,13 +18,19 @@ dart pub global activate system_monitor_cli
 
 ## Usage
 ### Start the Server
-To start the System Monitor server, use the following command:
+To start the System Monitor server, you can use the following command:
+
+```sh
+dart pub global run system_monitor_cli --start
+```
+
+If you want to specify a custom hostname and port, you can provide the `--host` and `--port` options as follows:
 
 ```sh
 dart pub global run system_monitor_cli --start --host <host> --port <port>
 ```
 
-Replace `<host>` with the desired hostname or IP address, and `<port>` with the desired port number.
+Replace `<host>` with the desired hostname or IP address, and `<port>` with the desired port number. If you do not provide the `--host` and `--port` options, the server will use the default values.
 
 ### Stop the Server
 To stop the running System Monitor server, use the following command:
