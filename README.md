@@ -1,5 +1,7 @@
 # system_monitor_cli
 
+[![pub package](https://img.shields.io/pub/v/system_monitor_cli.svg)](https://pub.dev/packages/system_monitor_cli)
+
 A command-line interface (CLI) for controlling the System Monitor server, which is part of the System Monitor package.
 
 ## Description
