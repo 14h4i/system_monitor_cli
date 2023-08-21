@@ -7,3 +7,7 @@ All notable changes to the `system_monitor_cli` package will be documented in th
 - Initial release of the `system_monitor_cli` package.
 - Provides a CLI interface to start and stop the System Monitor server.
 
+## 1.0.1 - 2023-08-03
+### Update
+- README.md
+
