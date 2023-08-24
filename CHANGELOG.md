@@ -26,3 +26,9 @@ All notable changes to the `system_monitor_cli` package will be documented in th
 ### Update
 
 - pubspec.yaml
+
+## 1.0.4 - 2023-08-24
+
+### Update
+
+- system_monitor_cli.dart
