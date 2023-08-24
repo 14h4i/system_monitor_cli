@@ -32,3 +32,10 @@ All notable changes to the `system_monitor_cli` package will be documented in th
 ### Update
 
 - system_monitor_cli.dart
+
+## 1.0.5 - 2023-08-24
+
+### Update
+
+- Change logic
+- system_monitor_cli.dart
