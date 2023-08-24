@@ -19,4 +19,11 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 
 flutter:
-  uses-material-design: true
+  plugin:
+    platforms:
+      linux:
+        pluginClass: SystemMonitorCliLinux
+      windows:
+        pluginClass: SystemMonitorCliWindows
+      macos:
+        pluginClass: SystemMonitorCliMacos
