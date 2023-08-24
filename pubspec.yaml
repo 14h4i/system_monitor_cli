@@ -1,6 +1,6 @@
 name: system_monitor_cli
 description: A CLI tool to start and stop the System Monitor server.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/14h4i/system_monitor_cli
 repository: https://github.com/14h4i/system_monitor_cli.git
 environment:

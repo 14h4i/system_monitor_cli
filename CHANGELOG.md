@@ -11,3 +11,7 @@ All notable changes to the `system_monitor_cli` package will be documented in th
 ### Update
 - README.md
 
+## 1.0.2 - 2023-08-24
+### Update
+- pubspec.yaml
+
