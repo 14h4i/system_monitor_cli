@@ -1,3 +1,8 @@
+part of 'system_monitor_cli.dart';
+
+const nameFileServer = 'server.py';
+
+const serverContent = '''
 # server.py
 
 import asyncio
@@ -31,3 +36,4 @@ logger.info("Server is running. Listening for connections...")
 
 asyncio.get_event_loop().run_until_complete(start_server)
 asyncio.get_event_loop().run_forever()
+  ''';
